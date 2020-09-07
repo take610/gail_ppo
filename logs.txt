@@ -1,0 +1,926 @@
+Model was constructed with shape (None, 4) for input Tensor("input_1:0", shape=(None, 4), dtype=float32), but it was called on an input with incompatible shape (1, 1, 4).
+
+discriminator loss total: 1.3771555423736572
+discriminator loss agent: 0.6899767518043518
+discriminator loss demo: 0.6871787309646606
+reward signal mean: 0.49654942750930786
+agent acc: 0.625
+demo acc: 0.5
+num episodes: 5
+loss: 11.26573371887207
+policy loss: 0.0383080393075943
+value loss: 22.468549728393555
+entropy loss: 0.684927225112915
+kl: -7.165595889091492e-05
+frac: 0.0
+mean 100 episode reward: 1.24
+max 100 episode reward: 46
+min 100 episode reward: 0
+num episodes: 5
+loss: 11.27023983001709
+policy loss: 0.052865974605083466
+value loss: 22.448375701904297
+entropy loss: 0.6814269423484802
+kl: 6.200745701789856e-06
+frac: 0.0
+mean 100 episode reward: 1.24
+max 100 episode reward: 46
+min 100 episode reward: 0
+num episodes: 5
+loss: 14.69002628326416
+policy loss: -0.3852490484714508
+value loss: 30.164291381835938
+entropy loss: 0.6870514154434204
+kl: -1.4492310583591461e-05
+frac: 0.0
+mean 100 episode reward: 1.24
+max 100 episode reward: 46
+min 100 episode reward: 0
+
+discriminator loss total: 1.713590145111084
+discriminator loss agent: 0.9043416976928711
+discriminator loss demo: 0.8092483878135681
+reward signal mean: 0.4611153304576874
+agent acc: 0.53125
+demo acc: 0.375
+num episodes: 413
+loss: 14.323472023010254
+policy loss: -0.1289140284061432
+value loss: 28.91752815246582
+entropy loss: 0.6377853751182556
+kl: -0.0010186985600739717
+frac: 0.0
+mean 100 episode reward: 45.02
+max 100 episode reward: 142
+min 100 episode reward: 11
+num episodes: 413
+loss: 17.418699264526367
+policy loss: -0.22059714794158936
+value loss: 35.290916442871094
+entropy loss: 0.616234540939331
+kl: -4.302430897951126e-05
+frac: 0.0
+mean 100 episode reward: 45.02
+max 100 episode reward: 142
+min 100 episode reward: 11
+num episodes: 413
+loss: 14.163040161132812
+policy loss: -0.031524769961833954
+value loss: 28.401653289794922
+entropy loss: 0.6261508464813232
+kl: -6.44945539534092e-05
+frac: 0.0
+mean 100 episode reward: 45.02
+max 100 episode reward: 142
+min 100 episode reward: 11
+
+discriminator loss total: 1.3321259021759033
+discriminator loss agent: 0.6210534572601318
+discriminator loss demo: 0.7110724449157715
+reward signal mean: 0.3943062126636505
+agent acc: 0.5625
+demo acc: 0.4375
+num episodes: 559
+loss: 24.697824478149414
+policy loss: -0.04192154109477997
+value loss: 49.49177169799805
+entropy loss: 0.6139011383056641
+kl: 0.0007559079676866531
+frac: 0.0
+mean 100 episode reward: 96.73
+max 100 episode reward: 200
+min 100 episode reward: 17
+num episodes: 559
+loss: 30.183320999145508
+policy loss: 0.009459152817726135
+value loss: 60.360443115234375
+entropy loss: 0.635956883430481
+kl: -0.00016846531070768833
+frac: 0.0
+mean 100 episode reward: 96.73
+max 100 episode reward: 200
+min 100 episode reward: 17
+num episodes: 559
+loss: 18.21779441833496
+policy loss: -0.05695284903049469
+value loss: 36.562294006347656
+entropy loss: 0.6398691534996033
+kl: -0.0002282913774251938
+frac: 0.0
+mean 100 episode reward: 96.73
+max 100 episode reward: 200
+min 100 episode reward: 17
+
+discriminator loss total: 0.9604671597480774
+discriminator loss agent: 0.36982083320617676
+discriminator loss demo: 0.5906463265419006
+reward signal mean: 0.3107351064682007
+agent acc: 0.84375
+demo acc: 0.625
+num episodes: 668
+loss: 38.52193832397461
+policy loss: -0.05461958423256874
+value loss: 77.16534423828125
+entropy loss: 0.6114835739135742
+kl: -0.0006983969360589981
+frac: 0.0
+mean 100 episode reward: 114.47
+max 100 episode reward: 200
+min 100 episode reward: 19
+num episodes: 668
+loss: 43.52473831176758
+policy loss: 0.009095802903175354
+value loss: 87.04368591308594
+entropy loss: 0.619983971118927
+kl: -0.001961085479706526
+frac: 0.0
+mean 100 episode reward: 114.47
+max 100 episode reward: 200
+min 100 episode reward: 19
+num episodes: 668
+loss: 20.85103416442871
+policy loss: -0.20456558465957642
+value loss: 42.12363815307617
+entropy loss: 0.6220026016235352
+kl: -0.0014283799100667238
+frac: 0.03125
+mean 100 episode reward: 114.47
+max 100 episode reward: 200
+min 100 episode reward: 19
+
+discriminator loss total: 1.0439716577529907
+discriminator loss agent: 0.2581113874912262
+discriminator loss demo: 0.7858603000640869
+reward signal mean: 0.2082456350326538
+agent acc: 0.96875
+demo acc: 0.5
+num episodes: 770
+loss: 19.697168350219727
+policy loss: 0.32375138998031616
+value loss: 38.757171630859375
+entropy loss: 0.5168389081954956
+kl: -0.0009708527941256762
+frac: 0.0
+mean 100 episode reward: 127.13
+max 100 episode reward: 200
+min 100 episode reward: 16
+num episodes: 770
+loss: 9.205450057983398
+policy loss: -0.12162626534700394
+value loss: 18.664894104003906
+entropy loss: 0.5371066331863403
+kl: 0.001773210009559989
+frac: 0.03125
+mean 100 episode reward: 127.13
+max 100 episode reward: 200
+min 100 episode reward: 16
+num episodes: 770
+loss: 9.025948524475098
+policy loss: 0.16214092075824738
+value loss: 17.738693237304688
+entropy loss: 0.5538644790649414
+kl: -7.176469080150127e-05
+frac: 0.21875
+mean 100 episode reward: 127.13
+max 100 episode reward: 200
+min 100 episode reward: 16
+
+discriminator loss total: 1.506308674812317
+discriminator loss agent: 0.6628224849700928
+discriminator loss demo: 0.8434861898422241
+reward signal mean: 0.4125877618789673
+agent acc: 0.46875
+demo acc: 0.5
+num episodes: 856
+loss: 14.39211368560791
+policy loss: -0.1377989798784256
+value loss: 29.072092056274414
+entropy loss: 0.6133191585540771
+kl: 0.0008156108669936657
+frac: 0.0
+mean 100 episode reward: 146.83
+max 100 episode reward: 200
+min 100 episode reward: 12
+num episodes: 856
+loss: 9.046238899230957
+policy loss: -0.17311932146549225
+value loss: 18.450576782226562
+entropy loss: 0.5929917097091675
+kl: 0.001091621583327651
+frac: 0.0
+mean 100 episode reward: 146.83
+max 100 episode reward: 200
+min 100 episode reward: 12
+num episodes: 856
+loss: 17.93206024169922
+policy loss: -0.015348117798566818
+value loss: 35.90669631958008
+entropy loss: 0.5939681529998779
+kl: -0.0006886089686304331
+frac: 0.15625
+mean 100 episode reward: 146.83
+max 100 episode reward: 200
+min 100 episode reward: 12
+
+discriminator loss total: 1.0777496099472046
+discriminator loss agent: 0.7295728921890259
+discriminator loss demo: 0.3481767177581787
+reward signal mean: 0.3908848166465759
+agent acc: 0.5625
+demo acc: 0.84375
+num episodes: 942
+loss: 20.393310546875
+policy loss: 0.2278224229812622
+value loss: 40.34278106689453
+entropy loss: 0.5904130935668945
+kl: 0.0004344237968325615
+frac: 0.0
+mean 100 episode reward: 153.79
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 942
+loss: 12.88471508026123
+policy loss: 0.08064793050289154
+value loss: 25.619338989257812
+entropy loss: 0.5601988434791565
+kl: 1.3368437066674232e-05
+frac: 0.0
+mean 100 episode reward: 153.79
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 942
+loss: 10.985918045043945
+policy loss: 0.03927980363368988
+value loss: 21.9049015045166
+entropy loss: 0.5812560319900513
+kl: 5.0815287977457047e-05
+frac: 0.0
+mean 100 episode reward: 153.79
+max 100 episode reward: 200
+min 100 episode reward: 15
+
+discriminator loss total: 0.9967039823532104
+discriminator loss agent: 0.32002463936805725
+discriminator loss demo: 0.6766793727874756
+reward signal mean: 0.2379007637500763
+agent acc: 0.9375
+demo acc: 0.625
+num episodes: 1028
+loss: 27.522811889648438
+policy loss: 0.18894357979297638
+value loss: 54.679840087890625
+entropy loss: 0.6051414608955383
+kl: 0.00018603471107780933
+frac: 0.0
+mean 100 episode reward: 148.27
+max 100 episode reward: 200
+min 100 episode reward: 20
+num episodes: 1028
+loss: 17.405651092529297
+policy loss: 0.09872616082429886
+value loss: 34.625701904296875
+entropy loss: 0.5925955772399902
+kl: 7.742363959550858e-05
+frac: 0.0
+mean 100 episode reward: 148.27
+max 100 episode reward: 200
+min 100 episode reward: 20
+num episodes: 1028
+loss: 6.608953475952148
+policy loss: -0.11068039387464523
+value loss: 13.451690673828125
+entropy loss: 0.6211274862289429
+kl: -0.0004186108708381653
+frac: 0.0
+mean 100 episode reward: 148.27
+max 100 episode reward: 200
+min 100 episode reward: 20
+
+discriminator loss total: 1.1851184368133545
+discriminator loss agent: 0.5454792380332947
+discriminator loss demo: 0.639639139175415
+reward signal mean: 0.32451173663139343
+agent acc: 0.625
+demo acc: 0.59375
+num episodes: 1114
+loss: 7.839794158935547
+policy loss: 0.05628742277622223
+value loss: 15.577859878540039
+entropy loss: 0.5423169136047363
+kl: -0.0015324052656069398
+frac: 0.0
+mean 100 episode reward: 148.32
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1114
+loss: 8.232137680053711
+policy loss: -0.12292997539043427
+value loss: 16.721952438354492
+entropy loss: 0.5909336805343628
+kl: 0.0006725913845002651
+frac: 0.03125
+mean 100 episode reward: 148.32
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1114
+loss: 14.225639343261719
+policy loss: 0.018039565533399582
+value loss: 28.426502227783203
+entropy loss: 0.5651300549507141
+kl: -0.0010999483056366444
+frac: 0.40625
+mean 100 episode reward: 148.32
+max 100 episode reward: 200
+min 100 episode reward: 15
+
+discriminator loss total: 1.2318413257598877
+discriminator loss agent: 0.5774368047714233
+discriminator loss demo: 0.6544044613838196
+reward signal mean: 0.41884881258010864
+agent acc: 0.65625
+demo acc: 0.65625
+num episodes: 1187
+loss: 14.147985458374023
+policy loss: -0.09004032611846924
+value loss: 28.489042282104492
+entropy loss: 0.6495950818061829
+kl: 4.327693022787571e-05
+frac: 0.0
+mean 100 episode reward: 170.99
+max 100 episode reward: 200
+min 100 episode reward: 22
+num episodes: 1187
+loss: 29.961585998535156
+policy loss: 0.1809806227684021
+value loss: 59.57381820678711
+entropy loss: 0.6304230690002441
+kl: -0.00014158478006720543
+frac: 0.0
+mean 100 episode reward: 170.99
+max 100 episode reward: 200
+min 100 episode reward: 22
+num episodes: 1187
+loss: 11.456507682800293
+policy loss: -0.19983544945716858
+value loss: 23.32567596435547
+entropy loss: 0.6494349837303162
+kl: -0.0003041531890630722
+frac: 0.0
+mean 100 episode reward: 170.99
+max 100 episode reward: 200
+min 100 episode reward: 22
+
+discriminator loss total: 1.5415632724761963
+discriminator loss agent: 0.8880876898765564
+discriminator loss demo: 0.6534755825996399
+reward signal mean: 0.471674382686615
+agent acc: 0.46875
+demo acc: 0.5625
+num episodes: 1259
+loss: 22.75339126586914
+policy loss: 0.29577821493148804
+value loss: 44.927330017089844
+entropy loss: 0.6051652431488037
+kl: -0.0002517504617571831
+frac: 0.0
+mean 100 episode reward: 178.24
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1259
+loss: 9.531207084655762
+policy loss: -0.2402438223361969
+value loss: 19.55504608154297
+entropy loss: 0.6072021722793579
+kl: -0.0009377102833241224
+frac: 0.0
+mean 100 episode reward: 178.24
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1259
+loss: 15.903363227844238
+policy loss: 0.014376558363437653
+value loss: 31.79039764404297
+entropy loss: 0.6212547421455383
+kl: -0.001937387976795435
+frac: 0.0
+mean 100 episode reward: 178.24
+max 100 episode reward: 200
+min 100 episode reward: 15
+
+discriminator loss total: 1.0747005939483643
+discriminator loss agent: 0.4943537414073944
+discriminator loss demo: 0.5803468227386475
+reward signal mean: 0.3687272369861603
+agent acc: 0.75
+demo acc: 0.6875
+num episodes: 1331
+loss: 3.5868215560913086
+policy loss: -0.29197394847869873
+value loss: 7.769311904907227
+entropy loss: 0.5860426425933838
+kl: 5.197746213525534e-05
+frac: 0.0
+mean 100 episode reward: 181.74
+max 100 episode reward: 200
+min 100 episode reward: 28
+num episodes: 1331
+loss: 2.568082332611084
+policy loss: 0.1761351376771927
+value loss: 4.7951788902282715
+entropy loss: 0.5642255544662476
+kl: -0.0006975895958021283
+frac: 0.0
+mean 100 episode reward: 181.74
+max 100 episode reward: 200
+min 100 episode reward: 28
+num episodes: 1331
+loss: 2.8063929080963135
+policy loss: -0.07335509359836578
+value loss: 5.77128791809082
+entropy loss: 0.5895811319351196
+kl: -0.0001337456051260233
+frac: 0.0
+mean 100 episode reward: 181.74
+max 100 episode reward: 200
+min 100 episode reward: 28
+
+discriminator loss total: 1.2533999681472778
+discriminator loss agent: 0.46118760108947754
+discriminator loss demo: 0.7922123670578003
+reward signal mean: 0.30262041091918945
+agent acc: 0.625
+demo acc: 0.65625
+num episodes: 1403
+loss: 19.327232360839844
+policy loss: 0.061959169805049896
+value loss: 38.54264450073242
+entropy loss: 0.6049059629440308
+kl: -0.000950262532569468
+frac: 0.0
+mean 100 episode reward: 182.46
+max 100 episode reward: 200
+min 100 episode reward: 14
+num episodes: 1403
+loss: 16.202838897705078
+policy loss: -0.004692757502198219
+value loss: 32.42628479003906
+entropy loss: 0.5611075758934021
+kl: 0.00016160099767148495
+frac: 0.0
+mean 100 episode reward: 182.46
+max 100 episode reward: 200
+min 100 episode reward: 14
+num episodes: 1403
+loss: 22.895244598388672
+policy loss: 0.3029799163341522
+value loss: 45.19682693481445
+entropy loss: 0.6148504614830017
+kl: -0.00027992879040539265
+frac: 0.0
+mean 100 episode reward: 182.46
+max 100 episode reward: 200
+min 100 episode reward: 14
+
+discriminator loss total: 0.7473769187927246
+discriminator loss agent: 0.428842693567276
+discriminator loss demo: 0.3185341954231262
+reward signal mean: 0.3270760774612427
+agent acc: 0.90625
+demo acc: 0.875
+num episodes: 1473
+loss: 13.30160903930664
+policy loss: -0.09380578994750977
+value loss: 26.80341148376465
+entropy loss: 0.6290613412857056
+kl: -0.0015614812728017569
+frac: 0.0
+mean 100 episode reward: 184.1
+max 100 episode reward: 200
+min 100 episode reward: 11
+num episodes: 1473
+loss: 13.954076766967773
+policy loss: -0.053767185658216476
+value loss: 28.028335571289062
+entropy loss: 0.6324110627174377
+kl: -7.930351421236992e-05
+frac: 0.0
+mean 100 episode reward: 184.1
+max 100 episode reward: 200
+min 100 episode reward: 11
+num episodes: 1473
+loss: 8.607344627380371
+policy loss: -0.18521177768707275
+value loss: 17.597637176513672
+entropy loss: 0.6261997818946838
+kl: -0.0010593112092465162
+frac: 0.0
+mean 100 episode reward: 184.1
+max 100 episode reward: 200
+min 100 episode reward: 11
+
+discriminator loss total: 1.4486368894577026
+discriminator loss agent: 0.6401379108428955
+discriminator loss demo: 0.8084989786148071
+reward signal mean: 0.4139198958873749
+agent acc: 0.4375
+demo acc: 0.53125
+num episodes: 1545
+loss: 11.869178771972656
+policy loss: -0.20245076715946198
+value loss: 24.15524673461914
+entropy loss: 0.599390983581543
+kl: -0.000610607210546732
+frac: 0.0
+mean 100 episode reward: 181.88
+max 100 episode reward: 200
+min 100 episode reward: 14
+num episodes: 1545
+loss: 14.242255210876465
+policy loss: 0.05058486759662628
+value loss: 28.396284103393555
+entropy loss: 0.6471432447433472
+kl: -0.0009153513237833977
+frac: 0.0
+mean 100 episode reward: 181.88
+max 100 episode reward: 200
+min 100 episode reward: 14
+num episodes: 1545
+loss: 10.479001998901367
+policy loss: -0.08158213645219803
+value loss: 21.13387680053711
+entropy loss: 0.6354424953460693
+kl: 1.5441328287124634e-06
+frac: 0.28125
+mean 100 episode reward: 181.88
+max 100 episode reward: 200
+min 100 episode reward: 14
+
+discriminator loss total: 1.2231768369674683
+discriminator loss agent: 0.465607225894928
+discriminator loss demo: 0.7575696110725403
+reward signal mean: 0.3358566164970398
+agent acc: 0.78125
+demo acc: 0.625
+num episodes: 1617
+loss: 9.279840469360352
+policy loss: 0.021875247359275818
+value loss: 18.52800941467285
+entropy loss: 0.60399329662323
+kl: 0.00014171889051795006
+frac: 0.0
+mean 100 episode reward: 178.7
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1617
+loss: 7.313267707824707
+policy loss: 0.005631659179925919
+value loss: 14.626861572265625
+entropy loss: 0.5794325470924377
+kl: 0.000433638459071517
+frac: 0.0
+mean 100 episode reward: 178.7
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1617
+loss: 8.643837928771973
+policy loss: -0.0083521269261837
+value loss: 17.316022872924805
+entropy loss: 0.5820999145507812
+kl: -0.000798775115981698
+frac: 0.0
+mean 100 episode reward: 178.7
+max 100 episode reward: 200
+min 100 episode reward: 15
+
+discriminator loss total: 1.1629526615142822
+discriminator loss agent: 0.6719621419906616
+discriminator loss demo: 0.4909905791282654
+reward signal mean: 0.431447833776474
+agent acc: 0.4375
+demo acc: 0.625
+num episodes: 1685
+loss: 15.571533203125
+policy loss: -0.03530185669660568
+value loss: 31.225845336914062
+entropy loss: 0.6087268590927124
+kl: 0.0006115566939115524
+frac: 0.0
+mean 100 episode reward: 185.84
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1685
+loss: 6.620656967163086
+policy loss: -0.21578460931777954
+value loss: 13.685150146484375
+entropy loss: 0.6133421659469604
+kl: -0.0019601762760430574
+frac: 0.0
+mean 100 episode reward: 185.84
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1685
+loss: 15.276411056518555
+policy loss: 0.12348708510398865
+value loss: 30.31787109375
+entropy loss: 0.6011794209480286
+kl: -0.00036760978400707245
+frac: 0.15625
+mean 100 episode reward: 185.84
+max 100 episode reward: 200
+min 100 episode reward: 15
+
+discriminator loss total: 1.1587281227111816
+discriminator loss agent: 0.6085996031761169
+discriminator loss demo: 0.5501284599304199
+reward signal mean: 0.39709657430648804
+agent acc: 0.59375
+demo acc: 0.71875
+num episodes: 1753
+loss: 3.769167423248291
+policy loss: 0.06325280666351318
+value loss: 7.423681259155273
+entropy loss: 0.5926192998886108
+kl: -0.00032540829852223396
+frac: 0.0
+mean 100 episode reward: 182.75
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1753
+loss: 3.9824836254119873
+policy loss: -0.23806677758693695
+value loss: 8.452783584594727
+entropy loss: 0.5841491222381592
+kl: 0.0017060539685189724
+frac: 0.0
+mean 100 episode reward: 182.75
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1753
+loss: 2.9162538051605225
+policy loss: -0.13256222009658813
+value loss: 6.109208106994629
+entropy loss: 0.578819990158081
+kl: -0.0011602123267948627
+frac: 0.0
+mean 100 episode reward: 182.75
+max 100 episode reward: 200
+min 100 episode reward: 15
+
+discriminator loss total: 0.9832437038421631
+discriminator loss agent: 0.4328738749027252
+discriminator loss demo: 0.5503698587417603
+reward signal mean: 0.2947753071784973
+agent acc: 0.75
+demo acc: 0.71875
+num episodes: 1822
+loss: 11.25163745880127
+policy loss: -0.06119798123836517
+value loss: 22.633445739746094
+entropy loss: 0.388703852891922
+kl: -6.022630259394646e-05
+frac: 0.0
+mean 100 episode reward: 188.09
+max 100 episode reward: 200
+min 100 episode reward: 17
+num episodes: 1822
+loss: 17.35870933532715
+policy loss: 0.06568837910890579
+value loss: 34.59525680541992
+entropy loss: 0.4607512354850769
+kl: 7.982132956385612e-05
+frac: 0.0
+mean 100 episode reward: 188.09
+max 100 episode reward: 200
+min 100 episode reward: 17
+num episodes: 1822
+loss: 11.700152397155762
+policy loss: 0.10501301288604736
+value loss: 23.199481964111328
+entropy loss: 0.4601118564605713
+kl: 2.8657959774136543e-05
+frac: 0.0
+mean 100 episode reward: 188.09
+max 100 episode reward: 200
+min 100 episode reward: 17
+
+discriminator loss total: 0.7709663510322571
+discriminator loss agent: 0.4903692603111267
+discriminator loss demo: 0.28059709072113037
+reward signal mean: 0.355665385723114
+agent acc: 0.65625
+demo acc: 0.84375
+num episodes: 1890
+loss: 3.3719568252563477
+policy loss: -0.11594235897064209
+value loss: 6.984348773956299
+entropy loss: 0.42753463983535767
+kl: 0.00080767588224262
+frac: 0.0
+mean 100 episode reward: 185.94
+max 100 episode reward: 200
+min 100 episode reward: 16
+num episodes: 1890
+loss: 2.2240631580352783
+policy loss: -0.013600211590528488
+value loss: 4.485923767089844
+entropy loss: 0.5298681259155273
+kl: -0.0001895449822768569
+frac: 0.0
+mean 100 episode reward: 185.94
+max 100 episode reward: 200
+min 100 episode reward: 16
+num episodes: 1890
+loss: 1.8237496614456177
+policy loss: -0.08394387364387512
+value loss: 3.825684070587158
+entropy loss: 0.5148485898971558
+kl: -0.0012423171428963542
+frac: 0.03125
+mean 100 episode reward: 185.94
+max 100 episode reward: 200
+min 100 episode reward: 16
+
+discriminator loss total: 1.05049729347229
+discriminator loss agent: 0.5014616250991821
+discriminator loss demo: 0.5490356087684631
+reward signal mean: 0.3613736033439636
+agent acc: 0.8125
+demo acc: 0.625
+num episodes: 1959
+loss: 17.017454147338867
+policy loss: 0.03325515240430832
+value loss: 33.98011779785156
+entropy loss: 0.5859099626541138
+kl: -0.00019458727911114693
+frac: 0.0
+mean 100 episode reward: 183.4
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1959
+loss: 14.829387664794922
+policy loss: 0.10143601149320602
+value loss: 29.467121124267578
+entropy loss: 0.5608097314834595
+kl: -0.0011194455437362194
+frac: 0.0
+mean 100 episode reward: 183.4
+max 100 episode reward: 200
+min 100 episode reward: 15
+num episodes: 1959
+loss: 8.755571365356445
+policy loss: -0.20903678238391876
+value loss: 17.940536499023438
+entropy loss: 0.5659600496292114
+kl: 5.649053491652012e-05
+frac: 0.375
+mean 100 episode reward: 183.4
+max 100 episode reward: 200
+min 100 episode reward: 15
+
+discriminator loss total: 1.386147141456604
+discriminator loss agent: 0.6851586103439331
+discriminator loss demo: 0.7009885311126709
+reward signal mean: 0.4617377519607544
+agent acc: 0.5
+demo acc: 0.59375
+num episodes: 2023
+loss: 2.228407621383667
+policy loss: -0.3175778388977051
+value loss: 5.104164123535156
+entropy loss: 0.609669029712677
+kl: -6.313063204288483e-05
+frac: 0.0
+mean 100 episode reward: 193.55
+max 100 episode reward: 200
+min 100 episode reward: 21
+num episodes: 2023
+loss: 10.915949821472168
+policy loss: -0.017229799181222916
+value loss: 21.87837028503418
+entropy loss: 0.600544273853302
+kl: -0.0005917891394346952
+frac: 0.0
+mean 100 episode reward: 193.55
+max 100 episode reward: 200
+min 100 episode reward: 21
+num episodes: 2023
+loss: 14.685876846313477
+policy loss: 0.0750243216753006
+value loss: 29.234325408935547
+entropy loss: 0.6310118436813354
+kl: -9.700190275907516e-06
+frac: 0.0
+mean 100 episode reward: 193.55
+max 100 episode reward: 200
+min 100 episode reward: 21
+
+discriminator loss total: 0.7538156509399414
+discriminator loss agent: 0.3942188620567322
+discriminator loss demo: 0.35959678888320923
+reward signal mean: 0.3194395899772644
+agent acc: 0.90625
+demo acc: 0.84375
+num episodes: 2091
+loss: 1.4646049737930298
+policy loss: -0.26221734285354614
+value loss: 3.465219497680664
+entropy loss: 0.5787484645843506
+kl: 0.0003792028874158859
+frac: 0.0
+mean 100 episode reward: 190.74
+max 100 episode reward: 200
+min 100 episode reward: 13
+num episodes: 2091
+loss: 1.3279571533203125
+policy loss: -0.28925636410713196
+value loss: 3.245867967605591
+entropy loss: 0.5720463991165161
+kl: -0.0008045516442507505
+frac: 0.125
+mean 100 episode reward: 190.74
+max 100 episode reward: 200
+min 100 episode reward: 13
+num episodes: 2091
+loss: 0.8699769973754883
+policy loss: -0.10711982846260071
+value loss: 1.9654088020324707
+entropy loss: 0.5607589483261108
+kl: -0.00023176800459623337
+frac: 0.53125
+mean 100 episode reward: 190.74
+max 100 episode reward: 200
+min 100 episode reward: 13
+
+discriminator loss total: 0.87284255027771
+discriminator loss agent: 0.411007285118103
+discriminator loss demo: 0.46183526515960693
+reward signal mean: 0.3102913498878479
+agent acc: 0.71875
+demo acc: 0.6875
+num episodes: 2158
+loss: 12.375391960144043
+policy loss: 0.01738007366657257
+value loss: 24.727684020996094
+entropy loss: 0.5829812288284302
+kl: -0.0008904183050617576
+frac: 0.0
+mean 100 episode reward: 191.92
+max 100 episode reward: 200
+min 100 episode reward: 17
+num episodes: 2158
+loss: 22.30466651916504
+policy loss: 0.099821537733078
+value loss: 44.42090606689453
+entropy loss: 0.5606993436813354
+kl: 0.00024393433704972267
+frac: 0.0
+mean 100 episode reward: 191.92
+max 100 episode reward: 200
+min 100 episode reward: 17
+num episodes: 2158
+loss: 14.780622482299805
+policy loss: 0.025241732597351074
+value loss: 29.522014617919922
+entropy loss: 0.5627074241638184
+kl: 0.00011933944188058376
+frac: 0.0
+mean 100 episode reward: 191.92
+max 100 episode reward: 200
+min 100 episode reward: 17
+
+discriminator loss total: 1.0426141023635864
+discriminator loss agent: 0.48966652154922485
+discriminator loss demo: 0.5529475808143616
+reward signal mean: 0.3407718539237976
+agent acc: 0.75
+demo acc: 0.71875
+num episodes: 2223
+loss: 2.4925053119659424
+policy loss: -0.0006358548998832703
+value loss: 4.996946334838867
+entropy loss: 0.5332005023956299
+kl: -0.000588729977607727
+frac: 0.0
+mean 100 episode reward: 196.99
+max 100 episode reward: 200
+min 100 episode reward: 21
+num episodes: 2223
+loss: 1.5427498817443848
+policy loss: 0.06527285277843475
+value loss: 2.9665732383728027
+entropy loss: 0.5809544324874878
+kl: -0.000620140228420496
+frac: 0.0
+mean 100 episode reward: 196.99
+max 100 episode reward: 200
+min 100 episode reward: 21
+num episodes: 2223
+loss: 1.2936803102493286
+policy loss: 0.028790518641471863
+value loss: 2.540418863296509
+entropy loss: 0.5319555997848511
+kl: -0.0008397472556680441
+frac: 0.0
+mean 100 episode reward: 196.99
+max 100 episode reward: 200
+min 100 episode reward: 21
